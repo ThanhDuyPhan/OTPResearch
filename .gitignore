@@ -1,3 +1,6 @@
 .vs/OTPResearch/DesignTimeBuild/
 .vs/OTPResearch/FileContentIndex/
 .vs/OTPResearch/v17/.suo
+OTPResearch/bin/
+OTPResearch/obj/
+OTPResearch/obj/Debug/

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OTPResearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7b23f8078ea0bd3140731042a3601144a784910")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3080f204c14886e4379a43b91e1ebba7a39debc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("OTPResearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OTPResearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
