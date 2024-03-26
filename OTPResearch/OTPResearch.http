@@ -1,0 +1,6 @@
+@OTPResearch_HostAddress = http://localhost:5272
+
+GET {{OTPResearch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
